@@ -1,0 +1,39 @@
+body {
+    background-color: black
+  }
+  h1 {
+    color: violet
+  }
+  h2 {
+    color: blue
+  }
+  h3 {
+    color: green
+  }
+  h4 {
+    color: yellow
+  }
+  h5 {
+    color: orange
+  }
+  h6 {
+    color: red
+  }
+  p {
+    color: white
+  }
+  ol {
+    color:white
+  }
+  .titlee {
+    color: white
+  }
+  table {
+    border-collapse: collapse;
+  }
+  td, th {
+    border: 1px solid white;
+    padding: 0.5rem;
+    color:white;
+  }
+  
